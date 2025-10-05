@@ -4,8 +4,10 @@
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)
 ![NASA API](https://img.shields.io/badge/Data%20Source-NASA%20Exoplanet%20Archive-orange)
 
+
 > *“Somewhere, something incredible is waiting to be known.”*  
 > — **Carl Sagan**
+
 
 **Mission Status:** ✅ Launched & Operational  
 **Public Access Terminal:** https://exoplanetexplorer.streamlit.app/  
@@ -46,6 +48,7 @@ With Exoplanet Explorer, I wanted to build a tool that is:
 
 ---
 
+
 ## 🔭 Launch Sequence (Run Locally)
 
 ```bash
@@ -59,8 +62,8 @@ pip install -r requirements.txt
 # 3. Engage console
 streamlit run app.py
 
-
 ---
+```
 
 ## 🛸 Hidden Secrets
 
