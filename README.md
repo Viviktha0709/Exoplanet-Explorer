@@ -3,12 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)
 ![NASA API](https://img.shields.io/badge/Data%20Source-NASA%20Exoplanet%20Archive-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 
 > *“Somewhere, something incredible is waiting to be known.”*  
 > — **Carl Sagan**
-
 
 **Mission Status:** ✅ Launched & Operational  
 **Public Access Terminal:** https://exoplanetexplorer.streamlit.app/  
